@@ -21,7 +21,7 @@
     "fs-extra": "^11.2.0",
     "inquirer": "^9.3.5",
     "ora": "^8.0.1",
-    "simple-git": "^3.25.0"
+    "simple-git": "^3.32.3"
   },
   "devDependencies": {}
 }
